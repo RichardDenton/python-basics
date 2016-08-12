@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 #Downloads the current Astronomy Picture of the Day
 #Sets the image as the desktop background - Only for Cinnamon desktops
-#Coded in Pyhton 3.5 and tested on Linux Mint
+#Coded in Pyhton 3.5 and tested on Linux Mint 18
 #Richard Denton - 11/08/2016
 
 import requests
