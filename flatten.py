@@ -1,6 +1,6 @@
 #Recursive function for flattening lists
 #Written in Python 2.7
-#Richard Denton
+#Richard Denton - 2016
 def flatten(aList):
     ''' 
     aList: a list 
