@@ -1,6 +1,6 @@
 def mergesort(aList):
     """
-    Takes in a list of unsorted items and returns the list sorted in ascending order.
+    Takes in a list of unsorted items and sorts the list in ascending order.
     """
     #If list length is less than 2 the list is already sorted
     if len(aList) < 2:
@@ -40,4 +40,3 @@ def mergesort(aList):
         b += 1
         c += 1
    
-    return aList
